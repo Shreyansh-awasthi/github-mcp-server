@@ -1,0 +1,7 @@
+cd c:\Users\ayush\OneDrive\Desktop\MCP_Project
+@"
+.venv/
+__pycache__/
+*.pyc
+.env
+"@ | Set-Content -Path ".gitignore" -Encoding UTF8
