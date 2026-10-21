@@ -7,7 +7,7 @@ commits) as tools for MCP-compatible clients like Claude Code.
 ## Requirements
 
 - Python 3.10+
-- A GitHub Personal Access Token
+- A GitHub Personal Access Token.
 
 ## Setup
 
